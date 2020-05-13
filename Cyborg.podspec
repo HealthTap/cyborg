@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'Cyborg'
-  s.version      = '0.6'
+  s.version      = '0.6.1'
   s.license      = { :type => 'Apache License, Version 2.0', :file => 'LICENSE.txt' }
   s.summary      = 'Cyborg is a partial port of Android's VectorDrawable to iOS.'
   s.homepage     = 'https://github.com/HealthTap/cyborg'
